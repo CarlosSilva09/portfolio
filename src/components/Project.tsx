@@ -25,8 +25,12 @@ function Project() {
                 {/* Projeto: WebTistacks */}
                 <div className="project">
                     <h2>WebTistacks</h2>
-                    {/* Substitua por uma imagem do projeto, se houver */}
-                    {/* <img src={require("../assets/images/WebTistacks.jpg")} alt="WebTistacks" ... /> */}
+                    <img
+                        src={require("../assets/images/WebTistacks.jpg")}
+                        alt="WebTistacks"
+                        className="project-image"
+                        style={{ width: "100%", maxWidth: "400px", borderRadius: "8px", marginBottom: "2rem" }}
+                    />
                     <p>Plataforma para gerenciamento de stacks tecnológicas, com interface intuitiva e responsiva.</p>
                     <p>
                         Veja o código no{" "}
@@ -37,8 +41,12 @@ function Project() {
                 {/* Projeto: Controle de Estoque */}
                 <div className="project">
                     <h2>Controle de Estoque</h2>
-                    {/* Substitua por uma imagem do projeto, se houver */}
-                    {/* <img src={require("../assets/images/ControleDeEstoque.jpg")} alt="Controle de Estoque" ... /> */}
+                    <img
+                        src={require("../assets/images/ControleDeEstoque.jpg")}
+                        alt="Controle de Estoque"
+                        className="project-image"
+                        style={{ width: "100%", maxWidth: "400px", borderRadius: "8px", marginBottom: "2rem" }}
+                    />
                     <p>Sistema completo para controle de estoque, desenvolvido em TypeScript, com foco em usabilidade e eficiência.</p>
                     <p>
                         Veja o código no{" "}
