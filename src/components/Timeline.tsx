@@ -16,7 +16,26 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="set de 2024 - o momento"
+            date="mai de 2025 - o momento"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Desenvolvedor em Front-End</h3>
+            <h4 className="vertical-timeline-element-subtitle">Autônomo, Remoto</h4>
+            <ul>
+              <li>Desenvolvimento e manutenção de aplicações web com ReactJS, NextJS, Typescript e TailwindCSS;</li>
+              <li>Integração com APIs REST e manipulação eficiente de dados em tempo real;</li>
+              <li>Participação em code reviews, garantindo boas práticas de código limpo e componentização reutilizável;</li>
+              <li>Utilização de bibliotecas modernas como ChakraUI, ShadCN, MaterialUI e outras para criação de UIs acessíveis e responsivas;</li>
+              <li>Colaboração direta com designers e product managers para entrega de funcionalidades com foco em Pixel Perfect e performance;</li>
+              <li>Aprendizado contínuo e adaptação a tecnologias emergentes no ecossistema front-end.</li>
+            </ul>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="set de 2024 - mai de 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
