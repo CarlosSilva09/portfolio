@@ -39,7 +39,7 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Aprendiz</h3>
+            <h3 className="vertical-timeline-element-title">Analista de dados</h3>
             <h4 className="vertical-timeline-element-subtitle">BERICAP, Sorocaba, São Paulo, Brasil</h4>
             <p>
               Gestão inteligente da produção, criação e manutenção de bancos de dados no Microsoft Access, 
