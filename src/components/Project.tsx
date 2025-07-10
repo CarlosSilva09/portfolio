@@ -54,6 +54,23 @@ function Project() {
                     </p>
                 </div>
 
+                {/* Projeto: Taskflow */}
+                <div className="project">
+                    <h2>Taskflow</h2>
+                    <img
+                        src={require("../assets/images/Taskflow.png")}
+                        alt="Taskflow"
+                        className="project-image"
+                        style={{ width: "100%", maxWidth: "400px", borderRadius: "8px", marginBottom: "2rem" }}
+                    />
+                    <p>TaskFlow é um sistema completo de gerenciamento de tarefas desenvolvido em TypeScript puro, implementando autenticação segura com JWT e CRUD completo para tarefas. 
+                    O projeto foi arquitetado com foco em segurança, performance e manutenibilidade.</p>
+                    <p>
+                        Veja o código no{" "}
+                        <a href="https://github.com/CarlosSilva09/TaskFlow" target="_blank" rel="noreferrer">GitHub</a>
+                    </p>
+                </div>
+
                 {/* Projetos em progresso */}
                 <div className="project">
                     <br />
