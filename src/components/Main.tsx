@@ -17,7 +17,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/carlos-eduardo-borba-silva-b726a52b9/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Carlos Silva</h1>
-          <p>Desenvolvedor Front-end Jr</p>
+          <p>Desenvolvedor Full-Stack</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/CarlosSilva09" target="_blank" rel="noreferrer"><GitHubIcon/></a>
