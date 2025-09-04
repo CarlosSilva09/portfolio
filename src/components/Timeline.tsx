@@ -20,8 +20,8 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Desenvolvedor em Front-End</h3>
-            <h4 className="vertical-timeline-element-subtitle">Autônomo, Remoto</h4>
+            <h3 className="vertical-timeline-element-title">Desenvolvedor Full-Stack</h3>
+            <h4 className="vertical-timeline-element-subtitle">147 Digital, Hibrido</h4>
             <ul>
               <li>Desenvolvimento e manutenção de aplicações web com ReactJS, NextJS, Typescript e TailwindCSS;</li>
               <li>Integração com APIs REST e manipulação eficiente de dados em tempo real;</li>
@@ -29,6 +29,7 @@ function Timeline() {
               <li>Utilização de bibliotecas modernas como ChakraUI, ShadCN, MaterialUI e outras para criação de UIs acessíveis e responsivas;</li>
               <li>Colaboração direta com designers e product managers para entrega de funcionalidades com foco em Pixel Perfect e performance;</li>
               <li>Aprendizado contínuo e adaptação a tecnologias emergentes no ecossistema front-end.</li>
+              <li>Agentes de AI em n8n</li>
             </ul>
           </VerticalTimelineElement>
           <VerticalTimelineElement
