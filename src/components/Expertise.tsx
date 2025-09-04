@@ -31,6 +31,7 @@ const labelsSecond = [
     "AWS",
     "CI/CD",
     "Kubernetes",
+    "n8n"
 ];
 
 const labelsThird = [
